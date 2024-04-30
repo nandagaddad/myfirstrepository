@@ -6,3 +6,5 @@ using break html tag for a new line
 #Simple hello word program using python<br>
 removed a line which contains syntax error<br>
 <b>print("Hello World")</b>
+<br>
+Added new line
