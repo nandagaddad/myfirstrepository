@@ -9,5 +9,9 @@ removed a line which contains syntax error<br>
 <br>
 Added new line
 add.
+<<<<<<< HEAD
 <br>added new line to explore branch feature<br>
 feature of feature1 branch
+=======
+<br>feature of main branch
+>>>>>>> main
